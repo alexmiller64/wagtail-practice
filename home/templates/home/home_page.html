@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block body_class %}template-homepage{% endblock %}
+
+
+{% block content %}
+
+{% if page.hero_heading %}<h1>{{page.hero_heading}}</h1>{% endif %}
+
+{% endblock content %}
