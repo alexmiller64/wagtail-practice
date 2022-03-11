@@ -13,7 +13,7 @@ draftjs-exporter==2.1.5
 html5lib==1.0.1
 idna==2.8
 libsass==0.17.0
-Pillow==5.4.1
+Pillow==9.0.1
 pytz==2018.9
 rcssmin==1.0.6
 requests==2.21.0
